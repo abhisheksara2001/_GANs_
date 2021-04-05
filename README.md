@@ -1,4 +1,4 @@
 # _GANs_
 Generating Fake Anime Characters 64x64 pixels
 
-![alt text](https://github.com/[abhisheksara2001]/[_GANs_]/[main]/dcgan-anime120-64_2.gif?raw=true)
+[final gif](_GANs_/dcgan-anime120-64_2.gif) 
